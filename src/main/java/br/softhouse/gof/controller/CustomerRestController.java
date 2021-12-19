@@ -10,6 +10,10 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+/*
+ * Swagger: http://localhost:8080/swagger-ui.html
+ */
+
 @RestController
 @RequestMapping("/customers")
 public class CustomerRestController {
